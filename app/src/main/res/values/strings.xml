@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">T5_A5_conversor</string>
+    <string name="a">A:</string>
+    <string name="convertir">Convertir:</string>
+    <string name="igual">=</string>
+    <string name="editText"></string>
+
+</resources>
